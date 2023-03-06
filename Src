@@ -1,0 +1,3 @@
+The project is totally based on open source datasets provided by Kaggle in their data analysis competition.
+In particular, the CPSC_Assignment3_Part 2 is based on Titanic Dataset (train.csv) available in Kaggle. The link to the source is https://www.kaggle.com/competitions/titanic/data?select=train.csv
+Likewise, the CPSC_Assignment3_Part 2 is based on HousePrice Dataset(train.csv) available in Kaggle. And the link to the source is https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=train.csv
